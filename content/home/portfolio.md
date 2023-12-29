@@ -28,12 +28,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Games
+      tag: Games
+    - name: Mixed Reality Interaction
+      tag: MR
+    - name: Human Interaction Design
+      tag: HCI
+    - name:Arts 
+      tag:ART
+  
 
 design:
   columns: '1'
