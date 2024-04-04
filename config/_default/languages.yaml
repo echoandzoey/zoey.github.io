@@ -2,21 +2,54 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+# # Default language
+# en:
+#   languageCode: en-us
+#   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#   contentDir: content/en
+# # Uncomment the lines below to configure your website in a second language.
+# zh:
+#   languageCode: zh-Hans
+#   contentDir: content/zh
+# #  title: Chinese website title...
+# #  params:
+# #    description: Site description in Chinese...
+# #  menu:
+# #    main:
+# #      - name: 传
+# #        url: '#about'
+# #        weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# defaultContentLanguage: en
+# defaultContentLanguageInSubdir: true
+# languages:
+#   zh:
+#     contentDir: content/zh
+#     disabled: false
+#     languageCode: zh-Hans
+#     languageDirection: ltr
+#     languageName: Chinese
+
+#     weight: 3
+#   en:
+#     contentDir: content/en
+#     disabled: false
+#     languageCode: en-US
+#     languageDirection: ltr
+#     languageName: English
+#     params:
+#       subtitle: Reference, Tutorials, and Explanations
+#     title: Project Documentation
+#     weight: 2
+# languages:
+# en:
+# contentDir: content/en
+# languageCode: en-US
+# title: My Website
+# weight: 1
+# zh:
+# contentDir: content/zh
+# languageCode: zh-CN
+# title: 我的网站
+
+# weight: 2

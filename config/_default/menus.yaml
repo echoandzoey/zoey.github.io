@@ -10,3 +10,9 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: index
+    url: home/
+    weight: 30
+  - name: test1
+    url: test/test
+    weight: 40

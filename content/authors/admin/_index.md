@@ -24,7 +24,6 @@ interests:
   - Interactive Design
   - Game Design
   - Large Language Model
-
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -45,12 +44,12 @@ interests:
 #   - icon: envelope
 #     icon_pack: fas
 #     link: "lizhouyi23@mails.tsinghua.edu.cn" # For a direct email link, use "mailto:test@example.org".
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/wowchemy
-  # - icon: instagram
-  #   icon_pack: fab
-  #   link: https://instagram.com/geocushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/wowchemy
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/geocushen
 # Uncomment below for Github link
 # - icon: github
 #  icon_pack: fab
@@ -68,4 +67,4 @@ interests:
 
 zoey's bio
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume as a PDF.

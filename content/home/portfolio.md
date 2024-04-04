@@ -34,8 +34,8 @@ content:
       tag: MR
     - name: Human Interaction Design
       tag: HCI
-    - name:Arts 
-      tag:ART
+    - name: Arts 
+      tag: ART
   
 
 design:
