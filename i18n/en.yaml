@@ -36,7 +36,7 @@
   translation: Next
 
 - id: figure
-  translation: 'Figure %d:'
+  translation: "Figure %d:"
 
 - id: edit_page
   translation: Edit this page
@@ -268,8 +268,7 @@
 # Published with
 
 - id: published_with
-  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
-
+  translation: Published with {hugoblox}.
 # Feedback widget
 
 - id: feedback_widget_title

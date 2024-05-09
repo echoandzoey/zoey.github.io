@@ -36,7 +36,7 @@
   translation: 下一页
 
 - id: figure
-  translation: '图%d:'
+  translation: "图%d:"
 
 - id: edit_page
   translation: 编辑本页
@@ -264,8 +264,7 @@
 
 - id: cookie_learn
   translation: 了解更多
-
 # Published with
 
 - id: published_with
-  translation: 由{hugoblox}支持发布——免费{repo_link}开源{/repo_link}网站，为创作者赋能。
+  translation: 由{hugoblox}支持发布

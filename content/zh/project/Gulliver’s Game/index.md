@@ -1,40 +1,23 @@
 ---
 title: The Gulliver’s World
-
+background_color: "#000000"
 summary: Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG)
-
 # tags:
 #   - Games
 # date: 2021-6
-sections:
-  - block: markdown
-    id: section-1
-    content:
-      title: The Gulliver’s World Portfolio
-      subtitle: A subtitle
-      text: In order to increase the interaction between Vtuber and viewers, we have designed a new game model - the Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG) - which profoundly enhances the interactivity of virtual live streaming. To graphically describe this asymmetrical relationship, we have named the work Gulliver's Game.
-      # The Gulliver’s World Portfolio
-      design:
-      background:
-        color: "#090a0b"
-        text_color_light: true
-        video:
-          path: # enter filename of a video in /assets/media
-      css_class: fullscreen
-
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: In order to increase the interaction between Vtuber and viewers, we have designed a new game model - the Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG) - which profoundly enhances the interactivity of virtual live streaming. To graphically describe this asymmetrical relationship, we have named the work Gulliver's Game.
-    design:
-      background:
-        color: "#090a0b"
-        text_color_light: true
-        video:
-          path: # enter filename of a video in /assets/media
-      css_class: fullscreen
 ---
 
 你好中文版 #中文版测试
+这里是格列佛邮寄
+
+<!-- ![项目图片描述](test.png)
+<img src="test.png" width="800" alt="图片描述">
+<img src="test.png" alt="图片描述" style="width: 100%; height: auto;">
+<img src="test2.png" alt="图片描述" style="width: 100%; height: auto;"> -->
+<img src="contrast.png" alt="图片描述" style="width: 100%; height: auto;">
+
+<div style="display:flex;align-items:center;">
+  <img src="intro.png" alt="图片描述" style="width: 50%; height: auto;">
+  <p style="font-size:20px;font-family:Arial,sans-serif;">This is a paragraph</p>
+  <p style="font-size:48px;font-family:Arial,sans-serif;">This is a  not paragraph</p>
+</div>
