@@ -10,14 +10,31 @@ summary: Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG)
 
 # Interactive Design # Virtual Youtuber -->
 
-I'm mainly responsible for planning, Unity local programming, motion capture and network coupling.
-Recognition
-2022 IEEE Conference on Games (CoG)
-doi: 10.1109/CoG51982.2022.9893555.
+<!-- ## Table of Contents
+
+- [Introduction](#Introduction)
+  - [Recognition](#Recognition)
+- [Reserach](#reserach)
+  - [Definition](#definition)
+  - [Contrast](#contrast)
+  - [Reference](#reference)
+- [Concept](#concept)
+  - [About MVEAG](#about-mveag)
+  - [About the Gulliver’s World](#about-the-gullivers-world)
+- [GamePlay](#gameplay)
+- [Technical Path](#technical-path)
+- [Game shots](#game-shots)
+- [Vedio](#vedio) -->
+
+## **Introduction**
 
 With the rise of metaverse and avatar concepts, virtual hosts have become more popular. Despite the obvious fact that virtual hosts have more ways to play with their viewers, for now, most virtual hosts are still just chatting, swiping gifts, cross-dressing, etc., like regular live streams.
 
-In order to increase the interaction between Vtuber and viewers, we have designed a new game model - the Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG) - which profoundly enhances the interactivity of virtual live streaming. To graphically describe this asymmetrical relationship, we have named the work Gulliver›s Game.
+In order to increase the interaction between Vtuber and viewers, we have designed a new game model - the Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG) - which profoundly enhances the interactivity of virtual live streaming. To graphically describe this asymmetrical relationship, we have named the work Gulliver's Game.
+
+### <span style="color: #fed494;">_Recognition_</span>
+
+2022 IEEE Conference on Games (CoG) doi: 10.1109/CoG51982.2022.9893555.
 
 ## **Reserach**
 
@@ -81,4 +98,16 @@ The gameplay workflows are as follows:
 
 Then we do the motion capture.We first tried optical motion capture, and the captured motion was fine, but it couldn't be calculated in real time, so we changed the scheme
 <img src="motionCapture.png" alt="motionCapture" style="width: 100%; height: auto;">
-<img src="Kinect.png" alt="Kinect" style="width: 100%; height: auto;">
+<img src="Kinectconnection.png" alt="Kinect" style="width: 100%; height: auto;">
+
+## **Game shots**
+
+<img src="screenshot2.png" alt="Kinect" style="width: 100%; height: auto;">
+
+## **Vedio**
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/KB9zi9uHsMg?si=je0Zxrw0ZHwKtVPJ" frameborder="0" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" allowfullscreen></iframe>
+</div>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KB9zi9uHsMg?si=je0Zxrw0ZHwKtVPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
