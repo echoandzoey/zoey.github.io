@@ -25,11 +25,6 @@ summary: Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG)
 - [Technical Path](#technical-path)
 - [Game shots](#game-shots)
 - [Vedio](#vedio) -->
-<style>
-  p {
-    text-align: justify;
-  }
-</style>
 
 ## **引言**
 
