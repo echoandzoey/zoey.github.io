@@ -15,45 +15,51 @@ date: 2022-01-01
 
 ### <span style="color: #fed494;">_Recognition_</span>
 
-清华ICADE 国际设计大会在展
+清华 ICADE 国际设计大会在展
 
 ## **Reserach**
 
-2021年在一次参观南越博物馆的时候，我们发现即使看展时非常沉浸在展品中，但出了博物馆之后很快会忘记展品的细节。于是我们开始关注博物馆展览的交互方式。
+2021 年在一次参观南越博物馆的时候，我们发现即使看展时非常沉浸在展品中，但出了博物馆之后很快会忘记展品的细节。于是我们开始关注博物馆展览的交互方式。
 同时，我们也对参观博物馆的游客做了大量的访谈，得到了如下的数据。
 
-
 <img src="research.png" alt="图片描述" style="width: 100%; height: auto;">
-## **Empathy Map**
+
+### <span style="color: #fed494;">_Empathy Map_</span>
+
 此外，通过同理心调研，我们可以得到参观者的心路历程如下图所示
 
 <img src="empathymap.png" alt="installation" style="width: 100%; height: auto;">
 
 ### <span style="color: #fed494;">_Conclusion_</span>
+
 最终我们从数据中总结出了结论：
+
 - 游客对于博物馆的印象是沉重的，严肃的。
 - 博物馆的展出形式方式十分有限，多以直接展出为主。
 - 互动形式单一
 - 很难真正记住展品背后的故事和历史。
 
-
 ## **concept**
+
 为了解决博物馆交互形式有限的问题，我利用信息差设计了一款桌面游戏。在游戏里，双方互相看不见。通过需要双方不断沟通，交换信息，打破迷局，才能拼凑出一整个完整的故事。
 
 <img src="concept.png" alt="Period1" style="width: 100%; height: auto;">
 
-
 ### <span style="color: #fed494;">_Information gap_</span>
-把古代和现代的社会风俗等差异设计进谜题，通过信息差解题，有利于游玩者更好的体验到差异性
-### <span style="color: #fed494;">_immersive theatrical experience_</span>
-玩家分别扮演两个时代人物，并且朗读所属身份的独白，沉浸带入角色。
-### <span style="color: #fed494;">_Switching perspectives_</span>
-不同于参观博物馆的平行视角，通过微缩模型实现了游玩者独特的上帝视角体验
 
+把古代和现代的社会风俗等差异设计进谜题，通过信息差解题，有利于游玩者更好的体验到差异性
+
+### <span style="color: #fed494;">_immersive theatrical experience_</span>
+
+玩家分别扮演两个时代人物，并且朗读所属身份的独白，沉浸带入角色。
+
+### <span style="color: #fed494;">_Switching perspectives_</span>
+
+不同于参观博物馆的平行视角，通过微缩模型实现了游玩者独特的上帝视角体验
 
 <div style="display: flex; width: 100%;">
   <div style="flex: 1;">
-    <img src="experince1.png" alt="framework" style="width: 100%; height: auto;">
+    <img src="experience1.png" alt="framework" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <img src="experience2.png" alt="hardware" style="width: 100%; height: auto;">
@@ -61,26 +67,48 @@ date: 2022-01-01
 </div>
 
 ## **Game design**
+
 ### <span style="color: #fed494;">_Character Design_</span>
+
 <img src="character.png" alt="角色设计" style="width: 100%; height: auto;">
 
 ### <span style="color: #fed494;">_Game play_</span>
-<img src="gameplay.png" alt="游戏流程" style="width: 100%; height: auto;">
+
+<span style="color: #fed494;">**游戏成员：**</span> 两名玩家，一名 DM
+
+<span style="color: #fed494;">**游戏开始：**</span>
+
+- 双方玩家无法互相见到，只能通过声音来传递信息。
+- 玩家需要朗读每关人物的独白，并进行墓室信息收集。
+  <img src="play1.png" alt="游戏流程" style="width: 100%; height: auto;">
+- 每关提供了道具，根据道具还有玩家需要念的独白破解谜题。
+- 工作人员会根据情节调整灯光。
+  <img src="play2.png" alt="游戏流程" style="width: 100%; height: auto;">
+
+<span style="color: #fed494;">**游戏结束：**</span>
+
+- 两位玩家破解了所有的谜题，将军和考古学家最终相见。
+- 一起拼凑出尘封的往事……
+  <img src="play3.png" alt="游戏流程" style="width: 100%; height: auto;">
 
 ### <span style="color: #fed494;">_Puzzle Design_</span>
+
 在这里节选了部分我设计的谜题
 <img src="PUZZLE.png" alt="游戏流程" style="width: 100%; height: auto;">
 
 ### <span style="color: #fed494;">_Puzzle Design_</span>
+
 具体的关卡设计以及地图设计如下所示
+
 <div style="display: flex; width: 100%;">
   <div style="flex: 0.7;">
-    <img src="experince1.png" alt="framework" style="width: 100%; height: auto;">
+    <img src="plotdesign.png" alt="framework" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 0.3;">
-    <img src="experience2.png" alt="hardware" style="width: 100%; height: auto;">
+    <img src="MAP.png" alt="hardware" style="width: 100%; height: auto;">
   </div>
 </div>
 
 ### <span style="color: #fed494;">_Workflow_</span>
+
 <img src="process.png" alt="游戏流程" style="width: 100%; height: auto;">
