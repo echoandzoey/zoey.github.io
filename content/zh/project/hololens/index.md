@@ -46,15 +46,24 @@ Holo, Chaoshan 是一个 MR 虚拟空间交互项目，设想了现实空间和�
 
 为了能够让参观者可以在参观的时候更加沉浸的和虚拟空间交互，我们实现了通过控制 RFID 卡片从而影响 Hololens 中虚拟场景的功能。
 实现**技术框架**如下：
+<<<<<<< Updated upstream
 
 <div style="display: flex; width: 100%;">
+=======
+<!-- <div style="display: flex; width: 100%;">
+>>>>>>> Stashed changes
   <div style="flex: 1;">
     <img src="framework.png" alt="framework" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <img src="hardware.png" alt="hardware" style="width: 100%; height: auto;">
   </div>
+<<<<<<< Updated upstream
 </div>
+=======
+</div> -->
+<img src="hardware.png" alt="hardware" style="width: 100%; height: auto;">
+>>>>>>> Stashed changes
 
 ## **Achievement**
 
