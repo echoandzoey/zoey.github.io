@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
-subtitle: ''
+title: ""
+subtitle: ""
 
 content:
   # Page type to display. E.g. project.
@@ -27,21 +27,20 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '*'
+      tag: "*"
     - name: Games
       tag: Games
-    - name: Mixed Reality Interaction
+    - name: Reality Interaction
       tag: MR
     - name: Human Interaction Design
       tag: HCI
-    - name: Arts 
+    - name: Arts
       tag: ART
-  
 
 design:
-  columns: '1'
+  columns: "1"
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: { padding: [0, 0, 0, 0] }
 ---

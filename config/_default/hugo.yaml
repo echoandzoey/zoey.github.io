@@ -32,9 +32,9 @@ defaultContentLanguage: zh
 defaultContentLanguageInSubdir: true
 
 languages:
-  en:
-    languageName: "English"
-    contentDir: content/en
+  # en:
+  #   languageName: "English"
+  #   contentDir: content/en
   zh:
     languageName: "中文"
     contentDir: content/zh

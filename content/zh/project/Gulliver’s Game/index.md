@@ -1,8 +1,8 @@
 ---
 title: The Gulliver’s World
-summary: Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG)
-# tags:
-#   - Games
+summary: MVEAG | 极不对称交互游戏
+tags:
+  - Games
 # date: 2021-6
 ---
 
@@ -25,6 +25,8 @@ summary: Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG)
 - [Technical Path](#technical-path)
 - [Game shots](#game-shots)
 - [Vedio](#vedio) -->
+
+<span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# Live Streaming # Virtual Idols # Interactive Design # Virtual Youtuber_</span>
 
 ## **Introduction**
 

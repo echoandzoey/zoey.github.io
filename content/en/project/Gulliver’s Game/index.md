@@ -1,6 +1,6 @@
 ---
 title: The Gulliver’s World
-summary: Multiple Viewers and Vtuber Extreme Asymmetric Game (MVEAG)
+summary: MVEAG |极不对称交互游戏
 # tags:
 #   - Games
 # date: 2021-6
