@@ -34,7 +34,7 @@ date: 2022-01-01
 局外：选择你想要完成的订单，并且选择合适的器官以及灵感生物进行AI合成
 <div style="display: flex; width: 100%;">
   <div style="flex: 1;">
-    <img src="order.png" alt="framework" style="width: 100%; height: auto;">
+    <img src="order.png" alt="framework"  style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <img src="ai.png" alt="hardware" style="width: 100%; height: auto;">
@@ -47,8 +47,14 @@ date: 2022-01-01
 局内：进行细胞培养，建造经营。随着细胞的培养，会逐渐衍生出城市，城市会逐渐产生文明。
 在局内一共实现了包括建造系统，回合系统，营养系统，压力系统等等。
 
-<img src="灵感细胞.gif" alt="installation" style="width: 100%; height: auto;">
+<p style="text-align: center; font-style: italic;">初始干细胞</p>
+<img src="灵感细胞.gif" alt="installation" title="初始细胞" style="width: 100%; height: auto;">
+<p style="text-align: center; font-style: italic;">合成建筑细胞</p>
 <img src="合成建筑.gif" alt="installation" style="width: 100%; height: auto;">
+<p style="text-align: center; font-style: italic;">合成红细胞</p>
+<img src="合成红细胞.gif" alt="installation" style="width: 100%; height: auto;">
+<p style="text-align: center; font-style: italic;">派出探索小队</p>
+<img src="派出探索小队.gif" alt="installation" style="width: 100%; height: auto;">
 
 ### <span style="color: #fed494;">_Step3:_</span>
 当局内类器官成功合成之后，最终会将其交付到订单主人手中。并且在培养的过程中玩家也将逐渐了解订单主人背后的故事，解开谜题。
@@ -68,7 +74,6 @@ date: 2022-01-01
 
 <img src="cells.png" alt="Period1" style="width: 100%; height: auto;">
 
-演示视频可以在这里看到。
 <!-- <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
   <video controls style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
     <source src="Holo,Chaoshan.mp4;" type="video/mp4">
