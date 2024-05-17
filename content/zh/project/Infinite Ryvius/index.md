@@ -4,16 +4,16 @@ summary: 叙事 | 肉鸽 | 生存
 weight: 12
 tags:
   - Games
-date: 2022-01-01
+# date: 2022-01-01
 ---
 
-<span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# AI Native # RTS # Narrative_</span>
+<!-- <span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# AI Native # RTS # Narrative_</span> -->
 
 ## **Introduction**
 
 在这场探索未知星球的奇幻之旅中，你将扮演一位在异星球模拟系统中不断进行生存模拟的实验员，面对未知的生物、险恶的环境和不可预测的事件，每一次抉择都将决定你的命运。在这危机四伏的奇诡世界，你必须谨慎决断，通过成百上千次的生存模拟，寻找共存与发展的中庸之道。
 
-##未完待续……
+## 未完待续……
 
 <!-- ### <span style="color: ##feeac7;">_Recognition_</span>
 
@@ -72,5 +72,5 @@ date: 2022-01-01
     <img src="finalstory.png" alt="hardware" style="width: 100%; height: auto;">
   </div>
 </div> -->
-<img src="result.png" alt="installation" style="width: 100%; height: auto;">
-<img src="finalstory.png" alt="installation" style="width: 100%; height: auto;"> --> -->
+<!-- <img src="result.png" alt="installation" style="width: 100%; height: auto;">
+<img src="finalstory.png" alt="installation" style="width: 100%; height: auto;"> -->

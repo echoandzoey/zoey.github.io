@@ -4,7 +4,7 @@ summary: Mutiagents | 模拟经营
 weight: 11
 tags:
   - Games
-date: 2022-01-01
+# date: 2022-01-01
 ---
 
 <!-- <span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# AI Native # RTS # Narrative_</span> -->
@@ -16,7 +16,7 @@ date: 2022-01-01
 而你能做的，就是通过和你组内的员工“友好”地相处，让他们努力工作、完成公司任务，为你积累“业绩”与“人情”，让你得以不断上升地位。
 但是这些员工们，都有着自己的小心思，也有着自己的软肋。充分运用你那精妙的语言技巧以及你的观察能力，说服他们一个个为你的美好前程铺路吧！
 
-##未完待续……
+## 未完待续……
 
 <!-- ### <span style="color: ##feeac7;">_Recognition_</span>
 
@@ -75,5 +75,5 @@ date: 2022-01-01
     <img src="finalstory.png" alt="hardware" style="width: 100%; height: auto;">
   </div>
 </div> -->
-<img src="result.png" alt="installation" style="width: 100%; height: auto;">
-<img src="finalstory.png" alt="installation" style="width: 100%; height: auto;"> --> -->
+<!-- <img src="result.png" alt="installation" style="width: 100%; height: auto;">
+<img src="finalstory.png" alt="installation" style="width: 100%; height: auto;"> -->

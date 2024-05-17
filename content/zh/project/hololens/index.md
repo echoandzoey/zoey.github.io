@@ -5,7 +5,7 @@ weight: 15
 tags:
   - MR
   - HCI
-date: 2022-01-01
+# date: 2022-01-01
 ---
 
 <span style="font-weight: bold; color: #428ec2; font-style: italic bold;">_# Virtual Reality Interaction # Installation_</span>
