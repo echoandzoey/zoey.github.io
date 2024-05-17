@@ -1,7 +1,7 @@
 ---
 title: Holo Chaoshan!
 summary: Hololens & Arduino & Unity
-
+weight: 15
 tags:
   - MR
   - HCI

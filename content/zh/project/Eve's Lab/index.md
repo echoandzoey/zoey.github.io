@@ -5,8 +5,10 @@ summary: 类器官城市文明建造
 tags:
   - Games
 date: 2022-01-01
+weight: 13
 ---
-<span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# AI Native # RTS  # Narrative_</span>
+
+<span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# AI Native # RTS # Narrative_</span>
 
 ## **Introduction**
 
