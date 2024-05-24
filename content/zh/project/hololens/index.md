@@ -5,6 +5,8 @@ weight: 15
 tags:
   - MR
   - HCI
+pager: true
+show_breadcrumb: true
 # date: 2022-01-01
 ---
 

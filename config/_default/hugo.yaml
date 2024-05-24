@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Portfolio Theme # Website name
+title: Zoey's Portfolio # Website name
 baseURL: "https://zoeylee.space/" # Website URL
 
 ############################
@@ -19,6 +19,7 @@ cascade:
     commentable: true
     show_related: true
     show_breadcrumb: true
+    pager: true
 
 ############################
 ## LANGUAGE

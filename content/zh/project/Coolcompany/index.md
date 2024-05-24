@@ -4,6 +4,8 @@ summary: Mutiagents | 模拟经营
 weight: 11
 tags:
   - Games
+#pager: true
+show_breadcrumb: true
 # date: 2022-01-01
 ---
 

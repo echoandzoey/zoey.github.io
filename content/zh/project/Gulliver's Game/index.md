@@ -4,6 +4,8 @@ summary: MVEAG | 极不对称交互游戏
 tags:
   - Games
 weight: 14
+#pager: true
+show_breadcrumb: true
 # date: 2021-6
 ---
 

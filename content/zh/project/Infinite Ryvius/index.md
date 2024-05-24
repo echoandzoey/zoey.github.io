@@ -1,9 +1,11 @@
 ---
 title: Infinite Ryvius
-summary: 叙事 | 肉鸽 | 生存
-weight: 12
+summary: 叙事 | 肉鸽 | 卡牌
+weight: 3
 tags:
   - Games
+#pager: true
+show_breadcrumb: true
 # date: 2022-01-01
 ---
 

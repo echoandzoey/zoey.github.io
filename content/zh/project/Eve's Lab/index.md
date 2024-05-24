@@ -6,6 +6,8 @@ tags:
   - Games
 # date: 2022-01-01
 weight: 13
+pager: true
+show_breadcrumb: true
 ---
 
 <span style="font-weight: bold; color: #fed494; font-style: italic bold;">_# AI Native # RTS # Narrative_</span>

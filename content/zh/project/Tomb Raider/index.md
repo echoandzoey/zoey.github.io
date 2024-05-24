@@ -2,9 +2,11 @@
 title: Tomb Radier
 # summary: Miniature Tomb Exploration Board Game | 微缩墓室探索桌面游戏
 summary: 微缩墓室探索桌面游戏
-weight: 15
+weight: 30
 tags:
   - Games
+#pager: true
+show_breadcrumb: true
 # date: 2022-01-01
 ---
 
