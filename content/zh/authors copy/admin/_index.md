@@ -65,6 +65,6 @@ interests:
 #email: ""
 ---
 
-zoey's bio
+zoey's #pager: true
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume as a PDF.

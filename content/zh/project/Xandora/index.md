@@ -1,5 +1,5 @@
 ---
-title: Infinite Ryvius
+title: Xandora
 summary: 叙事 | 肉鸽 | 卡牌
 weight: 3
 tags:

@@ -6,7 +6,7 @@ title: Zoey lee
 superuser: true
 
 # Role/position
-role: "student"
+role: "Study in Thu"
 
 # Status emoji
 status:
@@ -21,8 +21,8 @@ status:
 bio: Game designer , More than games
 
 interests:
-  - Interactive Design
   - Game Design
+  - Interactive and Muti-media Design
   - Large Language Model
 #education:
 #  courses:
