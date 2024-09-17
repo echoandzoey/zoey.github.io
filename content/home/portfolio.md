@@ -30,12 +30,12 @@ content:
       tag: "*"
     - name: Games
       tag: Games
+    - name: LLM
+      tag: LLM
     - name: Mixed Reality Interaction
       tag: MR
     - name: Human Interaction Design
       tag: HCI
-    - name: Arts
-      tag: ART
 
 design:
   columns: "1"

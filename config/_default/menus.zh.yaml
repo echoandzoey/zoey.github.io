@@ -2,6 +2,6 @@ main:
   - name: 主页
     url: /
     weight: 10
-  - name: 个人简历
+  - name: 关于我
     url: about/
     weight: 20
