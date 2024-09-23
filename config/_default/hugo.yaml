@@ -29,13 +29,13 @@ cascade:
 # hasCJKLanguage: false
 # defaultContentLanguageInSubdir: false
 # removePathAccents: true
-defaultContentLanguage: zh
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 languages:
-  # en:
-  #   languageName: "English"
-  #   contentDir: content/en
+  en:
+    languageName: "English"
+    contentDir: content/en
   zh:
     languageName: "中文"
     contentDir: content/zh
