@@ -6,7 +6,7 @@ title: Zoey lee
 superuser: true
 
 # Role/position
-role: "student"
+# role: "student"
 
 # Status emoji
 status:

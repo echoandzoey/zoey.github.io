@@ -6,7 +6,7 @@ tags:
   - Games
   - LLM
 # date: 2022-01-01
-weight: 13
+weight: 9
 pager: true
 show_breadcrumb: true
 ---

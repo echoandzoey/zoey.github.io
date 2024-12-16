@@ -1,11 +1,11 @@
 ---
-title: 1001 Nights
-summary: AI Native | Narrative
+title: God's Diary
+summary: MutiAgents | Simulation
 tags:
   - Games
   - LLM
-date: 2022-01-01
-weight: 10
+date: 2024-10-15
+weight: 11
 ---
 
 ## **Introduction**

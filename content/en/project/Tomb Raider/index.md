@@ -1,8 +1,8 @@
 ---
 title: Tomb Raider
 # summary: Miniature Tomb Exploration Board Game | 微缩墓室探索桌面游戏
-summary:  Miniature Tomb Exploration Board Game
-weight: 30
+summary: Miniature Tomb Exploration Board Game
+weight: 16
 tags:
   - Games
 
