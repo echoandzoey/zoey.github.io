@@ -10,7 +10,7 @@ weight: 11
 
 ## **Introduction**
 
-<img src="godDiary.gif" alt="God's Diary" style="width: 100%; height: auto;">
+<img src="godDiary.JPEG" alt="God's Diary" style="width: 100%; height: auto;">
 
 A divine simulation game powered by large language models. Take on the role of God, bestow miracles to enlighten humanity, or unleash chaos through divine punishment. The fate of human civilization rests in your hands! What aspects of human nature will emerge through their evolution...
 
