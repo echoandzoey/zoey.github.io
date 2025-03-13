@@ -12,13 +12,13 @@ on:
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   # Build website
@@ -31,6 +31,7 @@ jobs:
         with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+          submodules: recursive
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -67,4 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v3
