@@ -12,24 +12,24 @@ weight: 11
 
 <img src="godDiary.gif" alt="God's Diary" style="width: 100%; height: auto;">
 
-Ò»¿î»ùÓÚ´óÓïÑÔÄ£ÐÍµÄÉÏµÛÄ£ÄâÀàÓÎÏ·¡£Íæ¼Ò°çÑÝÉÏµÛ£¬½µÁÙÉñ¼£ÆôÃÉÈËÀà£¬Òà»òÕßÊÇ½µÏÂ×ï¶ñ²úÉú»ìãç¡£ÈËÀàµÄ·¢Õ¹ÃüÔËÔÚÄãµÄÊÖÉÏ£¡¶øÈËÀàÓÖ»áÑÝ»¯³öÔõÑùµÄÈËÐÔÄØ...
+ä¸€æ¬¾åŸºäºŽå¤§è¯­è¨€æ¨¡åž‹çš„ç¥žæ€§æ¨¡æ‹Ÿæ¸¸æˆã€‚çŽ©å®¶æ‰®æ¼”ä¸Šå¸ï¼Œå¯ä»¥é€šè¿‡ç¥žè¿¹å¯å‘äººç±»ï¼Œä¹Ÿå¯ä»¥é™ä¸‹ç¥žç½šåˆ¶é€ æ··ä¹±ã€‚äººç±»æ–‡æ˜Žçš„å‘å±•æŽŒæ¡åœ¨ä½ æ‰‹ä¸­ï¼Œçœ‹çœ‹äººæ€§ä¼šåœ¨è¿›åŒ–ä¸­å±•çŽ°å‡ºæ€Žæ ·çš„é¢è²Œ...
 
 ## **GamePlay**
+- ä½¿ç”¨å¡ç‰Œ
+  <img src="UsingCards.gif" alt="Using Cards" style="width: 100%; height: auto;">
 
-- Ê¹ÓÃ¿¨ÅÆ
-  <img src="Ê¹ÓÃ¿¨ÅÆ.gif" alt="Ê¹ÓÃ¿¨ÅÆ" style="width: 100%; height: auto;">
+- ç¥žåœ£å¹²é¢„
+  <img src="DivineIntervention.gif" alt="Divine Intervention" style="width: 100%; height: auto;">
 
-- ½µÁÙÉñ¼£
-  <img src="½µÁÙÉñ¼£.gif" alt="½µÁÙÉñ¼£" style="width: 100%; height: auto;">
+- å¯å‘äººç±»
+  <img src="EnlighteningHumanity.gif" alt="Enlightening Humanity" style="width: 100%; height: auto;">
 
-- ÆôÃÉÈËÀà
-  <img src="ÆôÃÉÈËÀà.gif" alt="ÆôÃÉÈËÀà" style="width: 100%; height: auto;">
+- å¡‘é€ æ€§æ ¼
+  <img src="ShapingCharacter.gif" alt="Shaping Character" style="width: 100%; height: auto;">
 
-- ¸Ä±ä¸öÐÔ
-  <img src="¸Ä±ä¸öÐÔ.gif" alt="¸Ä±ä¸öÐÔ" style="width: 100%; height: auto;">
+- ä¹¦å†™åŽ†å²
+  <img src="WritingHistory.gif" alt="Writing History" style="width: 100%; height: auto;">
 
-- Æ×Ð´ÀúÊ·
-  <img src="Æ×Ð´ÀúÊ·.gif" alt="Æ×Ð´ÀúÊ·" style="width: 100%; height: auto;">
+- å¡ç‰Œè®¾è®¡
+  <img src="CardDesign.jfif" alt="Card Design" style="width: 100%; height: auto;">
 
-- ¿¨ÅÆÉè¼Æ
-  <img src="¿¨ÅÆ.jiff" alt="¿¨ÅÆÉè¼Æ" style="width: 100%; height: auto;">
