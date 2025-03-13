@@ -22,6 +22,7 @@ concurrency:
 
 jobs:
   # Build website
+  #
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
